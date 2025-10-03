@@ -1,6 +1,6 @@
 ### Hello I´m Fabian
 
-My journey as a fullstack developer has been shaped by a number of different projects and continuous learning. You can see it on my [page](https://fabianduerr.com). <br/>
+My journey as a fullstack developer has been shaped by a number of different projects and continuous learning. <br/>
 My passion for technology and continuous learning drives me to take on diverse projects and challenges, helping me grow into a dedicated and skilled developer.<br/>
 In my profession, programming is more than just writing code—it's a creative approach to problem-solving. I take pride in my ability to break down complex technical challenges into simple, user-friendly solutions that bring ideas to life.
 
